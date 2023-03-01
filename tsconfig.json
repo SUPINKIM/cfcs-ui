@@ -6,7 +6,10 @@
 	"preserveConstEnums": true,
 	"sourceMap": true,
 	"files": [
-	  "./package/*"
-	]
+	  "./packages/*"
+	],
+	"exclude": ["packages/**/dist/**"],
+	/* 하위 overriding이 필요한 tsconfig가 있는 경우 references 추가 */
+	"jsx": "react"
   }
 }
