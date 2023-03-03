@@ -4,7 +4,8 @@ import './App.css';
 
 function App () {
   const [
-    count, setCount
+    count,
+    setCount
   ] = useState(0);
 
   return (
