@@ -3474,9 +3474,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-project@workspace:packages/react-project":
+"react-project@workspace:packages/react":
   version: 0.0.0-use.local
-  resolution: "react-project@workspace:packages/react-project"
+  resolution: "react-project@workspace:packages/react"
   dependencies:
     "@types/react": ^18.0.27
     "@types/react-dom": ^18.0.10
@@ -4146,9 +4146,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue-project@workspace:packages/vue-project":
+"vue-project@workspace:packages/vue3":
   version: 0.0.0-use.local
-  resolution: "vue-project@workspace:packages/vue-project"
+  resolution: "vue-project@workspace:packages/vue3"
   dependencies:
     "@vitejs/plugin-vue": ^4.0.0
     autoprefixer: ^10.4.13
