@@ -96,6 +96,11 @@ module.exports = {
     'vue/script-indent': [
       'error',
       2
+    ],
+    'arrow-spacing': 'error',
+    'function-paren-newline': [
+      'error',
+      'multiline'
     ]
   },
   overrides: [

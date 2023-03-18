@@ -6,10 +6,10 @@
 	"removeComments": true,
 	"preserveConstEnums": true,
 	"sourceMap": true,
-	"files": [
+  "files": [
 	  "./packages/*"
 	],
-	"exclude": ["packages/**/dist/**"],
+  "exclude": ["packages/**/dist/**"],
 	"jsx": "react"
 	/* 하위 overriding이 필요한 tsconfig가 있는 경우 references 추가 */
   }
